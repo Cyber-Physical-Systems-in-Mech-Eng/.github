@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🙋‍♀️ Welcome to the Chair of Cyber-Physical Systems in Mechanical Engineering at TU Berlin, led by Prof. Dr.-Ing. Merten Stender
+👩‍💻 Useful resources: learn more about us at www.tu.berlin/cpsme
+
 <!--
 
 **Here are some ideas to get you started:**
